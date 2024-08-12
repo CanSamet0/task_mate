@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Task Mate</string>
+    <string name="waiting">Bekleyen</string>
+    <string name="completed">Tamamlanan</string>
+    <string name="empty_task">Empty Task</string>
+    <string name="no_pending_task">Bekleyen Görev Yok</string>
 </resources>
