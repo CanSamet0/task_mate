@@ -2,6 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="backGroundBlue">#8ad5ff</color>
-    <color name="firstBlue">#0071b0</color>
+    <color name="backGroundBlue">#7AB2B2</color>
+    <color name="firstBlue">#4D869C</color>
+    <color name="textColor">#EEF7FF</color>
+    <color name="orange">#FF9874</color>
 </resources>

@@ -4,13 +4,10 @@
     <style name="Base.Theme.TaskMate" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="colorPrimary">@color/firstBlue</item>
     </style>
-
     <style name="Theme.TaskMate" parent="Base.Theme.TaskMate" />
 
-    <!-- Splash Screen Theme -->
-    <style name="Theme.TaskMate.MySplash" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">@color/backGroundBlue</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/target</item>
-        <item name="postSplashScreenTheme">@style/Theme.TaskMate</item>
+    <style name="CustomSwitchStyle" parent="Widget.MaterialComponents.CompoundButton.Switch">
+        <item name="android:thumbTint">@color/firstBlue</item>
+        <item name="android:trackTint">@color/backGroundBlue</item>
     </style>
     </resources>
